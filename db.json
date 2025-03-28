@@ -1,0 +1,30 @@
+{
+    "GTRdes":[
+        {
+            "id" : 1,
+            "Header": "The Nissan GTR",
+            "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0oqyFajSbUkr15VKEVW4f1EbdvOxUe4PZKA&s",
+            "Des": "The Nissan GT-R is a high-performance, all-wheel-drive sports car known for its powerful twin-turbo V6 engine, advanced aerodynamics, and exhilarating handling, often referred to as a 'Godzilla' for its power and speed. ",
+            "High Wheels": 30
+
+        },
+        {
+            "id": 2,
+            "Header": "The Nissan Patrol",
+            "Img": "https://www.thedrive.com/wp-content/uploads/2025/01/cropped-Nissan-Patrol-Super-Safari-20.jpeg",
+            "Des":"The Nissan Patrol is a full-size, luxurious, and rugged 4x4 SUV known for its powerful engine, advanced technology, and versatile capabilities, offering a comfortable and capable driving experience for both on and off-road adventures. ",
+            "High Wheels":30
+        },
+        {
+            "id": 3,
+            "Header": "The Nissan FairLady Z",
+            "Img": "https://static1.topspeedimages.com/wordpress/wp-content/uploads/2023/10/download-3.jpeg?q=50&fit=crop&w=1140&h=&dpr=1.5",
+            "Des":"The Nissan Z-car, originally marketed as the Datsun 240Z and later the Fairlady Z, is a legendary sports car known for its performance, styling, and affordability, with a history spanning several generations and models. ",
+            "High Wheels":70
+        }
+    ]
+
+
+
+}       
+    

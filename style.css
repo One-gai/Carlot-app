@@ -1,0 +1,25 @@
+#MainPageTitle{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: rgb(75, 146, 122);
+    
+}
+#MainPageIntro{
+    display:inline;
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    
+}
+#MainPageFilter input{
+    display:flex;
+    margin: auto;
+    border-color: ;
+}
+#MainPageFilterBtn input{
+    display: flex;
+    margin: auto;
+    flex-wrap:nowrap;
+    border-color: ;
+}
