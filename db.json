@@ -1,11 +1,11 @@
 {
-    "GTRdes":[
+    "NissanDes":[
         {
             "id" : 1,
             "Header": "The Nissan GTR",
-            "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0oqyFajSbUkr15VKEVW4f1EbdvOxUe4PZKA&s",
+            "Img": "https://images.prismic.io/carwow/60069ed6-3e3d-41d3-a4b3-11595d9849e2_2017+Nissan+GT-R+front+quarter+moving.jpg?auto=format&cs=tinysrgb&fit=crop&q=60&w=750",
             "Des": "The Nissan GT-R is a high-performance, all-wheel-drive sports car known for its powerful twin-turbo V6 engine, advanced aerodynamics, and exhilarating handling, often referred to as a 'Godzilla' for its power and speed. ",
-            "High Wheels": 30
+            "HighWheels": 30
 
         },
         {
@@ -13,14 +13,37 @@
             "Header": "The Nissan Patrol",
             "Img": "https://www.thedrive.com/wp-content/uploads/2025/01/cropped-Nissan-Patrol-Super-Safari-20.jpeg",
             "Des":"The Nissan Patrol is a full-size, luxurious, and rugged 4x4 SUV known for its powerful engine, advanced technology, and versatile capabilities, offering a comfortable and capable driving experience for both on and off-road adventures. ",
-            "High Wheels":30
+            "HighWheels":30
         },
         {
             "id": 3,
             "Header": "The Nissan FairLady Z",
             "Img": "https://static1.topspeedimages.com/wordpress/wp-content/uploads/2023/10/download-3.jpeg?q=50&fit=crop&w=1140&h=&dpr=1.5",
             "Des":"The Nissan Z-car, originally marketed as the Datsun 240Z and later the Fairlady Z, is a legendary sports car known for its performance, styling, and affordability, with a history spanning several generations and models. ",
-            "High Wheels":70
+            "HighWheels":70
+        }
+    ],
+    "ToyotaDes":[
+        {
+            "id" : 1,
+            "Header": "The Toyota Supra",
+            "Img": "https://images.squarespace-cdn.com/content/v1/59dad03ee9bfdf464d47e01a/1604561024324-NNAGGG3VS09JB9082NMA/50567749983_d22ea7fa91_c.jpg?format=2500w",
+            "Des": "The Toyota GR Yaris is a high-performance hot hatch, born from rally racing, known for its exhilarating driving experience and rally-derived features, including a turbocharged engine, GR-FOUR AWD system, and a focus on driver control and comfort.",
+            "HighWheels":50 
+        },
+        {
+            "id" :2,
+            "Header": "The Toyota Land cruiser ",
+            "Img": "https://cdn.outsideonline.com/wp-content/uploads/2020/08/31/ultimate-200_h.jpg?crop=16:9&width=960&enable=upscale&quality=100",
+            "Des": "The Land Cruiser V8 is a powerful, robust, and luxurious full-size SUV known for its off-road capabilities and reliability, featuring a V8 engine and advanced technologies for both on and off-road performance. ",
+            "HighWheels": 50
+        },
+        {
+            "id" :3,
+            "Header": "The Toyota 2000GT",
+            "Img": "https://media.evo.co.uk/image/private/s--l29gVQhN--/f_auto,t_content-image-wide@1/v1602778575/evo/2020/10/Toyota%202000GT%20icon-6.jpg",
+            "Des": "The Toyota 2000GT, a high-performance Gran Turismo launched in 1965, was a joint effort between Toyota and Yamaha, known for its long-nosed styling, backbone frame, and 6-cylinder, twin-camshaft engine. ",
+            "HighWheels":80
         }
     ]
 
