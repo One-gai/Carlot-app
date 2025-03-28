@@ -22,9 +22,9 @@ const renderGTRdes = async () => {
     `
     })
      
-    
+    container.innerHTML = template;
 }
-container.innerHTML = template;
+
    
 
 window.addEventListener('DOMContentLoaded',() => renderGTRdes());
