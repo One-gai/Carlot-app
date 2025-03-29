@@ -26,7 +26,7 @@
     "ToyotaDes":[
         {
             "id" : 1,
-            "Header": "The Toyota Supra",
+            "Header": "The Toyota GR Yaris",
             "Img": "https://images.squarespace-cdn.com/content/v1/59dad03ee9bfdf464d47e01a/1604561024324-NNAGGG3VS09JB9082NMA/50567749983_d22ea7fa91_c.jpg?format=2500w",
             "Des": "The Toyota GR Yaris is a high-performance hot hatch, born from rally racing, known for its exhilarating driving experience and rally-derived features, including a turbocharged engine, GR-FOUR AWD system, and a focus on driver control and comfort.",
             "HighWheels":50 
@@ -45,6 +45,30 @@
             "Des": "The Toyota 2000GT, a high-performance Gran Turismo launched in 1965, was a joint effort between Toyota and Yamaha, known for its long-nosed styling, backbone frame, and 6-cylinder, twin-camshaft engine. ",
             "HighWheels":80
         }
+    ],
+    "HondaDes":[
+        {
+            "id" :1,
+            "Header": "The Honda Civic Type R",
+            "Img": "https://assets.whichcar.com.au/image/upload/s--Wi9-P5qs--/ar_2.304921968787515,c_fill,f_auto,q_auto:good/c_scale,w_2048/v1/archive/whichcar/2020/12/18/-1/DKR50190.jpg",
+            "Des": "The Honda Civic Type R is a high-performance hot hatchback and sports sedan, known for its powerful 2.0-liter turbocharged VTEC engine, track-focused handling, and distinctive styling, designed for an immersive and exhilarating driving experience. ",
+            "HighWheels":45
+        },
+        {
+            "id" :2,
+            "Header": "The Honda Pilot",
+            "Img": "https://www.clickheretesting.com/TeamHonda/research/2025/pilot/images/mlp-img-perf.jpg",
+            "Des": "The Honda Pilot is a mid-size, three-row crossover SUV known for its versatility, spaciousness, and reliability, offering seating for up to eight passengers and a towing capacity of up to 5,000 lbs.",
+            "HighWheels":35
+        },
+        {
+            "id" :3,
+            "Header": "The Honda Prelude",
+            "Img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/1999_Honda_Prelude_in_White_Pearl%2C_front_left.jpg",
+            "Des": "The 5th generation Honda Prelude (1997-2001) marked a return to a more squared-off design, featured a VTEC 2.2-liter inline-four engine, and introduced the 'Type SH' trim with an Active Torque Transfer System (ATTS) for enhanced handling. ",
+            "HighWheels":50
+        }
+        
     ]
 
 
