@@ -1,13 +1,13 @@
-.HondaDes Img{
+.NissanDes Img{
     object-fit: cover;
     width: 30%;
     height: auto;
 }
 
-.HondaDes h2{
+.NissanDes h2{
     font-size: xx-large;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: rgb(0, 70, 150);
+    color: rgb(75, 146, 122);
 }
 #Des{
    font-size: x-large;
@@ -19,7 +19,7 @@
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: rgb(109, 108, 108);
 }
-/* #toyotaImg{
+#toyotaImg{
     padding-left:200px;
    padding-top:5% ;
     
@@ -30,7 +30,7 @@
 #hondaImg{
     padding-left:200px;
     padding-top:5% ;
-} */
+}
 @keyframes gradientAnimation {
     0% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
@@ -38,7 +38,7 @@
 }
 
 body {
-    background: linear-gradient(-45deg, #638863, #466675, #515a8f, #8f5050);
+    background: linear-gradient(-45deg, #4554da, #166d49, #1d406e, #2575c0);
     background-size: 300% 300%;
     animation: gradientAnimation 10s ease infinite;
     height: 100vh;

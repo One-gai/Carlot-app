@@ -8,7 +8,7 @@
 .ToyotaDes h2{
     font-size: xx-large;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: rgb(75, 146, 122);
+    color: rgb(226, 180, 82);
 }
 #ToyotaDes{
    font-size: x-large;
@@ -32,3 +32,16 @@
     padding-left:200px;
     padding-top:5% ;
 } */
+@keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+body {
+    background: linear-gradient(-45deg, #686938, #3f235f, rgb(0, 161, 173), #8f5236, #2575c0);
+    background-size: 300% 300%;
+    animation: gradientAnimation 10s ease infinite;
+    height: 100vh;
+    margin: 0;
+}
