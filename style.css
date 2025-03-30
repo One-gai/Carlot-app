@@ -17,10 +17,9 @@
     margin: auto;
     border-color: ;
 }
-#MainPageFilterBtn {
-    display:flex;
-   justify-content: center;
-   gap: 8px;
+.MainPageFilterBtn > button {
+    
+    margin-left: 900px;
   
 }
 .form-select{
@@ -39,7 +38,7 @@
 }
 
 .car-item {
-    padding-top: 20px;
+    padding-top: 60px;
     width: 200px; /* Set fixed width for each car */
     text-align: center;
 }

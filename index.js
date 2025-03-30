@@ -10,6 +10,10 @@
 //         }
 //     });
 // });
+
+import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
+import 'bootstrap/dist/js/bootstrap.bundle.min.js'; // Import Bootstrap JS (for interactive components)
+
 document.getElementById("inputGroupSelect01").addEventListener("change", function() {
     let selectedCategory = this.value; // Get selected value from dropdown
     let cars = document.querySelectorAll(".car-item"); // Get all car images
