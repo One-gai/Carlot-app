@@ -13,10 +13,9 @@ const renderHondaDes = async () => {
         <div class = "HondaDes">
             <h2>${HondaDes.Header}</h2>
             <img src = "${HondaDes.Img}">
-            <p id = "Des">${HondaDes.Des}</p>
+            <p id = "Des">${HondaDes.Des.slice(0, 50)}...</p>
             <p id = "Likes">${HondaDes.HighWheels}Likes</p>
-            
-            
+            <a href="/details/details.html?id=${HondaDes.id}">Read more...</a>
         </div>
         `
     })
