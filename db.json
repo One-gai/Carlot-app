@@ -50,7 +50,7 @@
         {
             "id" :1,
             "Header": "The Honda Civic Type R",
-            "Img": "https://assets.whichcar.com.au/image/upload/s--Wi9-P5qs--/ar_2.304921968787515,c_fill,f_auto,q_auto:good/c_scale,w_2048/v1/archive/whichcar/2020/12/18/-1/DKR50190.jpg",
+            "Img": "https://www.topgear.com/sites/default/files/images/cars-road-test/carousel/2020/09/bc2f7ca468ed871c73fde3fc984d39fa/308638_2020_civic_type_r_limited_edition.jpg?w=892&h=502",
             "Des": "The Honda Civic Type R is a high-performance hot hatchback and sports sedan, known for its powerful 2.0-liter turbocharged VTEC engine, track-focused handling, and distinctive styling, designed for an immersive and exhilarating driving experience. ",
             "HighWheels":45
         },
@@ -65,7 +65,7 @@
             "id" :3,
             "Header": "The Honda Prelude",
             "Img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/1999_Honda_Prelude_in_White_Pearl%2C_front_left.jpg",
-            "Des": "The 5th generation Honda Prelude (1997-2001) marked a return to a more squared-off design, featured a VTEC 2.2-liter inline-four engine, and introduced the 'Type SH' trim with an Active Torque Transfer System (ATTS) for enhanced handling.",
+            "Des": "The 5th generation Honda Prelude (1997-2001) marked a return to a more squared-off design, featured a VTEC 2.2-liter inline-four engine, and introduced the 'Type SH' trim with an Active Torque Transfer System (ATTS) for enhanced handling. ",
             "HighWheels":50
         }
         
