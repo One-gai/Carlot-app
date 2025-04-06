@@ -1,3 +1,5 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
 .NissanDes Img{
     object-fit: cover;
     width: 30%;
@@ -39,8 +41,27 @@
 
 body {
     background: linear-gradient(-45deg, #4554da, #166d49, #1d406e, #2575c0);
-    background-size: 300% 300%;
+    background-size: 400% 400%;
     animation: gradientAnimation 10s ease infinite;
     height: 100vh;
     margin: 0;
 }
+.NissanDes a {
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 120%;
+    margin-left:10px ;
+    /* transition: color 0.3s ease-in-out; */
+    transition: all 0.3s ;
+
+}
+.NissanDes a:hover{
+    /* color: rgb(92, 179, 206); */
+    padding: 30px 30px; /* Increases size */
+    border-radius: 50px; /* More rounded */
+    background: linear-gradient(-45deg, #b41905, #166d49);
+    background-size: 400% 400%;
+    animation: gradientAnimation 10s ease infinite;
+    height: 100vh;
+    margin: 0;
+} /* Changes color */

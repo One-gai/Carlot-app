@@ -40,8 +40,27 @@
 
 body {
     background: linear-gradient(-45deg, #686938, #3f235f, rgb(0, 161, 173), #8f5236, #2575c0);
-    background-size: 300% 300%;
+    background-size: 400% 400%;
     animation: gradientAnimation 10s ease infinite;
     height: 100vh;
     margin: 0;
 }
+.ToyotaDes a {
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 120%;
+    margin-left:10px ;
+    /* transition: color 0.3s ease-in-out; */
+    transition: all 0.3s ;
+
+}
+.ToyotaDes a:hover{
+    /* color: rgb(92, 179, 206); */
+    padding: 30px 30px; /* Increases size */
+    border-radius: 50px; /* More rounded */
+    background: linear-gradient(-45deg, #481dc0, #78ee17);
+    background-size: 400% 400%;
+    animation: gradientAnimation 10s ease infinite;
+    height: 100vh;
+    margin: 0;
+} /* Changes color */

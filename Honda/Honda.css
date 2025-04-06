@@ -39,8 +39,27 @@
 
 body {
     background: linear-gradient(-45deg, #638863, #466675, #515a8f, #8f5050);
-    background-size: 300% 300%;
+    background-size: 400% 400%;
     animation: gradientAnimation 10s ease infinite;
     height: 100vh;
     margin: 0;
 }
+.HondaDes a {
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 120%;
+    margin-left:10px ;
+    /* transition: color 0.3s ease-in-out; */
+    transition: all 0.3s ;
+
+}
+.HondaDes a:hover{
+    /* color: rgb(92, 179, 206); */
+    padding: 30px 30px; /* Increases size */
+    border-radius: 50px; /* More rounded */
+    background: linear-gradient(-45deg, #05b48e, #5d19db);
+    background-size: 400% 400%;
+    animation: gradientAnimation 10s ease infinite;
+    height: 100vh;
+    margin: 0;
+} /* Changes color */
